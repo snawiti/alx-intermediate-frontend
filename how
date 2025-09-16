@@ -1,0 +1,101 @@
+[33mcommit 5ad2138e1cc7897fda27236333a00614c1f5c2a5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: snawiti <snawiti@yahoo.com>
+Date:   Mon Sep 15 12:39:10 2025 +0200
+
+    create the CSS grid layout
+
+[33mcommit b30956f2144b249dd4498f73c8d20fc04c4455a9[m
+Author: snawiti <40319524+snawiti@users.noreply.github.com>
+Date:   Wed Sep 10 15:00:54 2025 +0200
+
+    Basic CSS Grid Layout
+
+[33mcommit 91ad618280572f7c4f09790bc1007f2ff2657c90[m
+Author: snawiti <snawiti@yahoo.com>
+Date:   Wed Sep 10 14:57:05 2025 +0200
+
+    Creating a Responsive CSS Grid Layout with Tailwind CSS
+
+[33mcommit 27ac15629b8ad4141db11befd76f0bc2d1ab141f[m
+Author: snawiti <snawiti@yahoo.com>
+Date:   Wed Sep 10 14:49:44 2025 +0200
+
+    modified changes
+
+[33mcommit 5a5b16f4cdd9482faabdb081c7f12b3901dce297[m
+Author: snawiti <snawiti@yahoo.com>
+Date:   Wed Sep 10 14:34:48 2025 +0200
+
+    Leverage on tailwind to create the CSS grid layout in input.css
+
+[33mcommit 770f82b88a950323fedb5662baf29bda03d74c25[m
+Author: snawiti <snawiti@yahoo.com>
+Date:   Wed Sep 10 14:29:00 2025 +0200
+
+    Leverage on tailwind to create the CSS grid layout
+
+[33mcommit 44c434233520b5074c822efc298f49d37d79c1a9[m
+Author: snawiti <snawiti@yahoo.com>
+Date:   Wed Sep 10 13:40:35 2025 +0200
+
+    content added to tailwind.config.js
+
+[33mcommit c06463f23c69bb752d97d1c31eb60b115422ae87[m
+Author: snawiti <snawiti@yahoo.com>
+Date:   Wed Sep 10 13:30:02 2025 +0200
+
+    Setting Up and Installing Tailwind CSS with Configuration
+
+[33mcommit 0df676a98327b6c9a93e0729d9f6b686596107d0[m
+Author: snawiti <snawiti@yahoo.com>
+Date:   Tue Sep 9 14:52:50 2025 +0200
+
+    file 3-index.html has been created
+
+[33mcommit 771e0b333bb96da25fb20c46a103db786633ab48[m
+Author: snawiti <snawiti@yahoo.com>
+Date:   Tue Sep 9 13:11:56 2025 +0200
+
+    Add 3-index.html with accessible from using ARIA roles
+
+[33mcommit 562ab0fd0c1fc5c644781c4497f4e5d777534512[m
+Author: snawiti <40319524+snawiti@users.noreply.github.com>
+Date:   Tue Sep 9 12:07:58 2025 +0200
+
+    Creating a Blog Post Layout Using Semantic HTML Elements
+
+[33mcommit 7e66deb8af58f2d13506816fa37cd7122edbf362[m
+Author: snawiti <snawiti@yahoo.com>
+Date:   Tue Sep 9 12:04:28 2025 +0200
+
+    successful merging
+
+[33mcommit b5ee221ccf289934f3717042a2a78c07e350f2c6[m
+Author: snawiti <snawiti@yahoo.com>
+Date:   Tue Sep 9 11:44:06 2025 +0200
+
+    Add 2-index.html with semantic blog post layout
+
+[33mcommit 333b6b3e2cfec56fd5583c844cb0ff131b54fdc6[m
+Author: snawiti <40319524+snawiti@users.noreply.github.com>
+Date:   Tue Sep 9 11:12:35 2025 +0200
+
+    Enhancing HTML Document with Meta Tags and Title for SEO and Accessibility
+
+[33mcommit 55c06c52db00d495914e373f11a45107dd838007[m
+Author: snawiti <40319524+snawiti@users.noreply.github.com>
+Date:   Tue Sep 9 11:11:46 2025 +0200
+
+    Creating a Structured HTML Document Using Semantic Elements
+
+[33mcommit d37739e0db2c627db6040542f60b190ae244def9[m
+Author: snawiti <snawiti@yahoo.com>
+Date:   Tue Sep 9 11:01:51 2025 +0200
+
+    Add 1-index.html with meta tags and title
+
+[33mcommit 9608981337be25b284fc6527e8d0a86d6d6cc33c[m
+Author: snawiti <snawiti@yahoo.com>
+Date:   Tue Sep 9 09:36:10 2025 +0200
+
+    Add 0X00-semantic_html/0-index.html with semantic structure
